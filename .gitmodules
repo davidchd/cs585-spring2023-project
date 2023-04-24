@@ -1,0 +1,3 @@
+[submodule "2022-CVPR-AIRNET"]
+	path = 2022-CVPR-AIRNET
+	url = git@github.com:davidchd/2022-CVPR-AirNet.git
