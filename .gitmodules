@@ -3,4 +3,4 @@
 	url = git@github.com:davidchd/2022-CVPR-AirNet.git
 [submodule "XYSingleImage-Deblurring"]
         path = XYSingleImage-Deblurring
-        url = https://github.com/cccathyZei/XY-Single-Image-Deblurring
+        url = git@github.com:cccathyZei/XY-Single-Image-Deblurring.git
